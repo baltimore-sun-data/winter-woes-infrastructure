@@ -1,0 +1,9 @@
+*.ipynb_checkpoints
+*.zip
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shx
+*.DS_Store
